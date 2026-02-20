@@ -21,16 +21,11 @@ This project simulates the steps involved when a user accesses a website, from D
 python main.py
 
 
-🟢 Save → Close  
-❌ Do NOT put `git init` here
+## 🌐 Online Demo
 
----
+This project can be run in any online Python environment such as Replit.
 
-## 🧹 PART 6 — `.gitignore` (TEXT ONLY)
-
-### What `.gitignore` is for
-Tells Git which files **NOT** to upload.
-
-### ✅ In `.gitignore`, write ONLY:
-```text
-__pycache__/
+Steps:
+1. Copy the repository
+2. Run `main.py`
+3. Enter any website URL
